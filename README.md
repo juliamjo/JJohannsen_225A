@@ -1,4 +1,4 @@
-# JJohannsen_225A
+# Julia Johannsen
  
 This is my repo for BMS 225A - Data Science. My work is organized as follows:
 - `code` all scripts used in analysis
